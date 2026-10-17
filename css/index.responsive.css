@@ -1,0 +1,465 @@
+@media (max-width: 1300px) {
+header .carousel-inner .carousel-item .carousel-caption h2{
+    font-size: 40px;
+}
+header .carousel-inner .carousel-item .carousel-caption p{
+    font-size: 12px;
+    width: 100% !important;
+}
+header .carousel-inner .carousel-item .carousel-caption .button a {
+    padding: 4px 16px;
+    font-size: 12px;
+}
+header .carousel-item:nth-of-type(2).active .content .part1 .img {
+    top: 32px;
+    max-width: 80%;
+}
+header .carousel-inner .carousel-item:nth-of-type(2) .content .part1 h2{
+    font-size: 55px;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box p{
+    font-size: 12px;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box h4{
+    font-size: 25px;
+}
+header .carousel-item:nth-of-type(2) .part1 .box .button a {
+    padding: 4px 16px;
+    font-size: 12px;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 h2{
+    font-size: 20px;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 p{
+    font-size: 12px;
+}
+header .carousel-item:nth-of-type(3) .part2 .button a {
+    padding: 4px 16px;
+    font-size: 12px;
+}
+header #carouselExample button {
+    width: 40px;
+    height: 40px;
+    font-size: 15px !important;
+    bottom: 20px;
+}
+header #carouselExample button:nth-of-type(1) {
+    right: 90px;
+}
+header #carouselExample button:nth-of-type(2) {
+right: 30px;
+}
+#Food .col img{
+    width: 40px;
+    height: 40px;
+}
+#About .container .title h2{
+    font-size: 35px;
+}
+#About .container .title .bottom::before,
+#About .container .title .bottom::after{
+    width: 15%;
+}
+#About .container .title .bottom img{
+    width: 15%;
+}
+#About .container .row .part1 .item h3{
+    font-size: 17px;
+}
+#About .container .row .part1 .item p{
+    font-size: 12px;
+}
+#About .part1 .item .row .item span{
+    font-size: 15px !important;
+}
+#About .part2 .item {
+    height: 200px;
+}
+#Testimonials {
+    height: initial;
+}
+    #Testimonials video {
+        display: none;
+    }
+        #Testimonials .container h2 {
+        font-size: 20px;
+    }
+        #Testimonials .container p {
+        width: 100%;
+        font-size: 12px;
+    }
+ #Menu .title h2{
+    font-size: 35px !important;
+ }
+ #Menu .title .bottom::before,
+#Menu .title .bottom::after{
+    width: 15%;
+}
+#Menu .title .bottom img{
+    width: 15%;
+}
+ #Menu .main-menu {
+        flex-direction: column;
+    }
+
+    #Menu .main-menu .nav {
+        width: 100%;
+    }
+
+    #Menu .main-menu .nav .boxes {
+        flex-direction: row;
+        flex-wrap: nowrap;
+    }
+
+    #Menu .nav button {
+        border-top: 1px solid #fff;
+    }
+
+    #Menu .nav button::before {
+        right: 50%;
+        top: initial;
+        bottom: 0;
+        transform: translateX(50%) translateY(120%) rotate(45deg);
+    }
+
+    #Menu .nav button.active::before {
+        transform: translateX(50%) translateY(50%) rotate(45deg);
+    }
+
+    #Menu .nav button:first-child {
+        border-top: 1px solid #fff;
+        border-radius: 5px 0 0 5px;
+    }
+
+    #Menu .nav button:last-child {
+        border-radius: 0 5px 5px 0px;
+    }
+    #Team .title h2{
+    font-size: 35px !important;
+ }
+ #Team .title .bottom::before,
+#Team .title .bottom::after{
+    width: 15%;
+}
+#Team .title .bottom img{
+    width: 15%;
+}
+    #Team .row .chef:not(:last-child) .item{
+        margin-bottom: 70px;
+    }
+        #Team .row .item {
+        max-width: 280px;
+        margin: auto;
+    }
+      #Order .title h2{
+    font-size: 35px !important;
+ }
+    #Order .title .bottom::before,
+#Order .title .bottom::after{
+    width: 15%;
+}
+#Order .title .bottom img{
+    width: 15%;
+}
+        #Order .form-container .item {
+        width: 100%;
+        padding: 20px 25px;
+    }
+    footer p {
+        font-size: 12px;
+    }
+    }
+
+@media (min-width: 371px) and (max-width: 1300px) {
+    header .carousel-inner .carousel-item .carousel-caption h2{
+    font-size: 50px;
+}
+header .carousel-inner .carousel-item .carousel-caption p{
+    font-size: 14px;
+    width: 90% !important;
+}
+header .carousel-inner .carousel-item .carousel-caption .button a {
+    padding: 8px 24px;
+    font-size: 16px;
+}
+header .carousel-item:nth-of-type(2).active .content .part1 .img {
+    top: 30px;
+    max-width: 35%;
+}
+header .carousel-inner .carousel-item:nth-of-type(2) .content .part1 h2{
+    font-size: 60px;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box p{
+    font-size: 14px;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box h4{
+    font-size: 25px;
+    margin-top: 0px !important;
+    margin-bottom: 15px !important;
+}
+header .carousel-item:nth-of-type(2) .part1 .box .button a {
+    padding: 8px 24px;
+    font-size: 16px;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 h2{
+    font-size: 25px;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 p{
+    font-size: 14px;
+}
+header .carousel-item:nth-of-type(3) .part2 .button a {
+    padding: 8px 24px;
+    font-size: 16px;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
+    max-width: 60% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
+    max-width: 60% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
+    max-width: 60% !important;
+}
+#About .container .row .part1 .item h3{
+    font-size: 20px;
+}
+#About .part1 .item .row .item span{
+    font-size: 18px !important;
+}
+#About .part2 .item {
+    height: 250px;
+}
+}
+@media (min-width: 577px) and (max-width: 1300px) {
+     header .carousel-inner .carousel-item .carousel-caption h2{
+    font-size: 60px;
+}
+header .carousel-inner .carousel-item .carousel-caption p{
+    font-size: 14px;
+    width: 80% !important;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box{
+    width: 75%;
+    margin: auto;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
+    max-width: 40% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
+    max-width: 40% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
+    max-width: 40% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .item {
+    bottom: 0px !important;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 p{
+    margin-bottom: 40px !important;
+}
+#About .container .title .bottom::before,
+#About .container .title .bottom::after{
+    width: 10%;
+}
+#About .container .row .part1 .item h3{
+    font-size: 25px;
+}
+#About .container .row .part1 .item p{
+    font-size: 16px;
+}
+#About .part2 .item {
+    height: 300px;
+}
+ #Testimonials .container h2 {
+        font-size: 30px;
+    }
+        #Testimonials .container p {
+        width: 100%;
+        font-size: 16px;
+    }
+    #Testimonials .container .item p {
+        font-size: 22px;
+}
+footer p {
+        font-size: 16px;
+    }
+}
+@media (min-width: 769px) and (max-width: 1300px) {
+     header .carousel-inner .carousel-item .carousel-caption h2{
+    font-size: 70px;
+}
+header .carousel-inner .carousel-item .carousel-caption p{
+    font-size: 14px;
+    width: 65% !important;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item {
+    bottom: 0px !important;
+}
+header .carousel-item:nth-of-type(2) .content .part1 .item .box{
+    width: 100%;
+}
+header .carousel-item:nth-of-type(2).active .content .part1 .img {
+    top: 32px;
+    max-width: 90%;
+}
+header .carousel-item:nth-of-type(2).active .content .part2 .item {
+    top: 100px;
+}
+header .carousel-inner .carousel-item:nth-of-type(3) .content .part1 img{
+    width: 100% !important;
+}
+header .carousel-inner .carousel-item:nth-of-type(3).active .content .part1 img {
+    left: 0px;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
+    max-width: 60% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
+    max-width: 60% !important;
+}
+header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
+    max-width: 60% !important;
+}
+header #carouselExample button {
+    width: 50px;
+    height: 50px;
+    font-size: 16px !important;
+    bottom: 20px;
+}
+header #carouselExample button:nth-of-type(1) {
+    right: 130px;
+}
+header #carouselExample button:nth-of-type(2) {
+right: 50px;
+}
+#About .container .title .bottom img{
+    width: 11%;
+}
+#About .container .row .part1 .item h3{
+    font-size: 20px;
+}
+#About .container .row .part1 .item p{
+    font-size: 12px;
+}
+#About .part2 .item {
+    height: 250px;
+}
+#Testimonials {
+    height: 450px;
+    }
+#Testimonials video {
+        display: block;
+    }
+#Testimonials .container h2 {
+        font-size: 35px;
+    }
+        #Testimonials .container p {
+        width: 90%;
+    }
+        #Testimonials .container .item {
+        padding: 15px;
+    }
+        #Testimonials .container .item img {
+        width: 45px;
+        height: 45px;
+    }
+        #Testimonials .container .item p {
+        font-size: 18px;
+        margin: auto;
+    }
+        #Testimonials .container .item h4{
+        font-size: 17px;
+    }
+    #Menu .main-menu .nav .boxes {
+        justify-content: center;
+    }
+
+    #Menu .tab-content .tab-pane .box .item .part-2 {
+        padding: 0;
+    }
+#Team .title .bottom::before,
+#Team .title .bottom::after{
+    width: 10%;
+}
+#Team .title .bottom img{
+    width: 10%;
+}
+    #Team .row .item .chef-cv h4 {
+        font-size: 20px;
+    }
+
+}
+@media (min-width: 992px) and (max-width: 1300px) {
+    header .carousel-inner .carousel-item .carousel-caption p{
+    font-size: 14px;
+    width: 60% !important;
+}
+    header .carousel-item:nth-of-type(2) .content .part1 .item{
+        bottom: 12px !important;
+    }
+    header .carousel-item:nth-of-type(2).active .content .part2 .item {
+        top: 40px;
+    }
+    header .carousel-inner .carousel-item:nth-of-type(3) .content .part1 img{
+    width: 80% !important;
+}
+#About .container .title .bottom img{
+    width: 8%;
+}
+ #Testimonials .container .item img {
+        width: 50px;
+        height: 50px;
+    }
+        #Testimonials .container .item p {
+        font-size: 20px;
+    }
+        #Testimonials .container .item h4{
+        font-size: 20px;
+    }
+    #Menu .main-menu {
+        flex-direction: row;
+    }
+
+    #Menu .main-menu .nav .boxes {
+        flex-direction: column;
+    }
+
+    #Menu .main-menu .nav {
+        width: initial;
+    }
+
+    #Menu .nav button::before {
+        right: 0%;
+        top: 50%;
+        bottom: initial;
+        transform: translateX(120%) translateY(-50%) rotate(45deg);
+    }
+
+    #Menu .nav button.active::before {
+        transform: translateX(50%) translateY(-50%) rotate(45deg);
+    }
+
+    #Menu .nav button:first-child {
+        border-top: 1px solid #fff;
+        border-radius: 5px 5px 0 0;
+    }
+
+    #Menu .nav button:last-child {
+        border-radius: 0 0 5px 5px;
+    }
+
+    #Menu .tab-content .tab-pane .box .item .part-2 .icons i {
+        font-size: 12px;
+    }
+#Team .title .bottom::before,
+#Team .title .bottom::after{
+    width: 8%;
+}
+#Team .title .bottom img{
+    width: 8%;
+}
+    #Team .row .item .chef-cv h4 {
+        font-size: 23px;
+    }
+}
+@media (min-width: 1181px) and (max-width: 1300px) {}

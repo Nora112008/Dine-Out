@@ -1,0 +1,45 @@
+:root {
+    --main-color: #F1B601;
+    --paragraph-color: #7A878B;
+    --main-gradient: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+    --secondary-gradient: radial-gradient(#2c5364, #203a43, #0f2027);
+--white:#fff;
+    --transition-duration: 1s;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #0f2027;
+    background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+    font-family: Poppins, sans-serif;
+    font-weight: 300;
+    color: var(--white);
+}
+body::-webkit-scrollbar{
+    width: 15px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: var(--main-color);
+    width: 15px;
+    border-radius: 10px;
+    box-shadow: inset 2px 2px 2px #ffffff40, inset -2px -2px 2px #00000040;
+}
+body::-webkit-scrollbar-track{
+background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+    font-family:  "Dancing Script", cursive;
+}
