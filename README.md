@@ -16,20 +16,4 @@
 * **Backend:** Node.js / Express (or mention your backend here)
 * **Database:** MongoDB / PostgreSQL (or mention your database here)
 
-## 💻 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Nora112008/Dine-Out.git
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the application:
-   ```bash
-   npm start
-   ```
-
----
 *Developed with ❤️ by Nora*
