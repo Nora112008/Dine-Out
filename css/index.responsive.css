@@ -4,7 +4,7 @@ header .carousel-inner .carousel-item .carousel-caption h2{
 }
 header .carousel-inner .carousel-item .carousel-caption p{
     font-size: 12px;
-    width: 100% !important;
+    width: 100%;
 }
 header .carousel-inner .carousel-item .carousel-caption .button a {
     padding: 4px 16px;
@@ -40,7 +40,7 @@ header .carousel-item:nth-of-type(3) .part2 .button a {
 header #carouselExample button {
     width: 40px;
     height: 40px;
-    font-size: 15px !important;
+    font-size: 15px;
     bottom: 20px;
 }
 header #carouselExample button:nth-of-type(1) {
@@ -70,13 +70,18 @@ right: 30px;
     font-size: 12px;
 }
 #About .part1 .item .row .item span{
-    font-size: 15px !important;
+    font-size: 15px ;
 }
 #About .part2 .item {
     height: 200px;
 }
 #Testimonials {
     height: initial;
+    background-image: url(../images/video_image-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
     #Testimonials video {
         display: none;
@@ -89,7 +94,7 @@ right: 30px;
         font-size: 12px;
     }
  #Menu .title h2{
-    font-size: 35px !important;
+    font-size: 35px;
  }
  #Menu .title .bottom::before,
 #Menu .title .bottom::after{
@@ -135,7 +140,7 @@ right: 30px;
         border-radius: 0 5px 5px 0px;
     }
     #Team .title h2{
-    font-size: 35px !important;
+    font-size: 35px;
  }
  #Team .title .bottom::before,
 #Team .title .bottom::after{
@@ -152,7 +157,7 @@ right: 30px;
         margin: auto;
     }
       #Order .title h2{
-    font-size: 35px !important;
+    font-size: 35px;
  }
     #Order .title .bottom::before,
 #Order .title .bottom::after{
@@ -176,7 +181,7 @@ right: 30px;
 }
 header .carousel-inner .carousel-item .carousel-caption p{
     font-size: 14px;
-    width: 90% !important;
+    width: 90%;
 }
 header .carousel-inner .carousel-item .carousel-caption .button a {
     padding: 8px 24px;
@@ -194,8 +199,8 @@ header .carousel-item:nth-of-type(2) .content .part1 .item .box p{
 }
 header .carousel-item:nth-of-type(2) .content .part1 .item .box h4{
     font-size: 25px;
-    margin-top: 0px !important;
-    margin-bottom: 15px !important;
+    margin-top: 0px ;
+    margin-bottom: 15px ;
 }
 header .carousel-item:nth-of-type(2) .part1 .box .button a {
     padding: 8px 24px;
@@ -212,19 +217,19 @@ header .carousel-item:nth-of-type(3) .part2 .button a {
     font-size: 16px;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
-    max-width: 60% !important;
+    max-width: 60%;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
-    max-width: 60% !important;
+    max-width: 60%;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
-    max-width: 60% !important;
+    max-width: 60%;
 }
 #About .container .row .part1 .item h3{
     font-size: 20px;
 }
 #About .part1 .item .row .item span{
-    font-size: 18px !important;
+    font-size: 18px ;
 }
 #About .part2 .item {
     height: 250px;
@@ -236,26 +241,26 @@ header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) i
 }
 header .carousel-inner .carousel-item .carousel-caption p{
     font-size: 14px;
-    width: 80% !important;
+    width: 80% ;
 }
 header .carousel-item:nth-of-type(2) .content .part1 .item .box{
     width: 75%;
     margin: auto;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
-    max-width: 40% !important;
+    max-width: 40% ;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
-    max-width: 40% !important;
+    max-width: 40% ;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
-    max-width: 40% !important;
+    max-width: 40% ;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .item {
-    bottom: 0px !important;
+    bottom: 0px;
 }
 header .carousel-inner .carousel-item:nth-of-type(3) .content .part2 p{
-    margin-bottom: 40px !important;
+    margin-bottom: 40px;
 }
 #About .container .title .bottom::before,
 #About .container .title .bottom::after{
@@ -290,10 +295,10 @@ footer p {
 }
 header .carousel-inner .carousel-item .carousel-caption p{
     font-size: 14px;
-    width: 65% !important;
+    width: 65% ;
 }
 header .carousel-item:nth-of-type(2) .content .part1 .item {
-    bottom: 0px !important;
+    bottom: 0px;
 }
 header .carousel-item:nth-of-type(2) .content .part1 .item .box{
     width: 100%;
@@ -306,24 +311,24 @@ header .carousel-item:nth-of-type(2).active .content .part2 .item {
     top: 100px;
 }
 header .carousel-inner .carousel-item:nth-of-type(3) .content .part1 img{
-    width: 100% !important;
+    width: 100%;
 }
 header .carousel-inner .carousel-item:nth-of-type(3).active .content .part1 img {
     left: 0px;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(1) img{
-    max-width: 60% !important;
+    max-width: 60% ;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(2) img{
-    max-width: 60% !important;
+    max-width: 60% ;
 }
 header .carousel-item:nth-of-type(3) .content .part2 .row .icon:nth-of-type(3) img{
-    max-width: 60% !important;
+    max-width: 60% ;
 }
 header #carouselExample button {
     width: 50px;
     height: 50px;
-    font-size: 16px !important;
+    font-size: 16px;
     bottom: 20px;
 }
 header #carouselExample button:nth-of-type(1) {
@@ -392,16 +397,16 @@ right: 50px;
 @media (min-width: 992px) and (max-width: 1300px) {
     header .carousel-inner .carousel-item .carousel-caption p{
     font-size: 14px;
-    width: 60% !important;
+    width: 60% ;
 }
     header .carousel-item:nth-of-type(2) .content .part1 .item{
-        bottom: 12px !important;
+        bottom: 12px;
     }
     header .carousel-item:nth-of-type(2).active .content .part2 .item {
         top: 40px;
     }
     header .carousel-inner .carousel-item:nth-of-type(3) .content .part1 img{
-    width: 80% !important;
+    width: 80% ;
 }
 #About .container .title .bottom img{
     width: 8%;
